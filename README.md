@@ -79,3 +79,13 @@ then converts the value into different weight units: **grams (g), kilograms (kg)
 This project is licensed under the **MIT License** – feel free to use and modify it.  
 
 🚀 **Happy coding!**
+
+
+---
+
+## ✅ Testing Information
+A basic test was conducted to verify the unit conversion functionality.  
+The test confirms that input values are correctly converted between grams, kilograms, and tonnes.  
+All test results are stored in the `images` directory.
+
+🚀 **Application runs successfully and performs conversions correctly.**
