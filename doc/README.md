@@ -114,7 +114,9 @@ The application has been tested for:
 ### `images/` Folder
 
 A test image has been added to the `images/` folder for UI verification.
-
+- img.png - Correct input line,  measurement units are grams
+- img2.png -
+- iimg.3png -
 ## 6. License
 
 This project is licensed under the **MIT License**.  
